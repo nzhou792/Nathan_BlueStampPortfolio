@@ -24,7 +24,8 @@ You should comment out all portions of your portfolio that you have not complete
 - The components of this starter project (Jitterbug) include a battery holder to hold a 3V coin cell battery that powers the bug, two LED lights that light up upon powering on, a vibration motor to allow the bug to jitter, and legs made out of wire that allow it to stand.
 - I have successfully attached all of the components to the PCB and soldered them in place, along with making all of the legs the same length.
 - A challenge I'm facing is that my on/off switch is broken and is unable to turn on without falling apart. I hope to avoid a mistake like this in the future by making sure my individual components are functioning properly before putting them together.
-  
+
+```
 # Final Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
