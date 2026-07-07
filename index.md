@@ -19,7 +19,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=NxggbA9NjnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NxggbA9NjnA?si=uwGbsBWsHdI1Mzg9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - The components of this starter project (Jitterbug) include a battery holder to hold a 3V coin cell battery that powers the bug, two LED lights that light up upon powering on, a vibration motor to allow the bug to jitter, and legs made out of wire that allow it to stand.
 - I have successfully attached all of the components to the PCB and soldered them in place, along with making all of the legs the same length.
