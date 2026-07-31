@@ -1,6 +1,6 @@
 # Wrist Rehabilitation Device
 
----This device aims to detect speed and bend angle of the wrist using an accelerometer and flex sensor attached to a wrist sleeve, and determines whether the form of the wrist is good or bad. In addition to this, the device also consists of two LEDs that flash red or green depending on form, and a Piezo buzzer that emits noise when the wrist bends too far. An Arduino WiFi server has been set up so that the acceleration, bend angle, form, and adjustment based on form can be monitored live on a website.
+This device aims to detect speed and bend angle of the wrist using an accelerometer and flex sensor attached to a wrist sleeve, and determines whether the form of the wrist is good or bad. In addition to this, the device also consists of two LEDs that flash red or green depending on form, and a Piezo buzzer that emits noise when the wrist bends too far. An Arduino WiFi server has been set up so that the acceleration, bend angle, form, and adjustment based on form can be monitored live on a website.
 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -37,11 +37,10 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CR1Y5pQMNKk?si=fOGP0NJ93SD7WFA_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+- I have written code that allows the x-axis acceleration detected by the accelerometer to be actively displayed on the serial monitor. I also set up a Wi-Fi server that allows me to monitor the acceleration and flex sensor bend angle in real time on a website.
+- So far, the project seems like it focuses much more on specific small components and the code that gets those components to work. This has been surprising because I initially envisioned a project much more focused on physical construction.
+- Some challenges I have faced so far
+- Before my last milestone, I must get the components wired and attached to a wrist sleeve in order to create the final functioning device. 
 
 # First Milestone
 
@@ -54,7 +53,6 @@ For your second milestone, explain what you've worked on since your previous mil
 - So far, I have successfuly wired various physical components to the breadboard, such as an Arduino Nano, flex sensor, Piezo buzzer, IMU board (accelerometer), and Bluetooth module. I have successfully gotten the flex sensor to actively display its flex value and activate the Piezo buzzer when it passes a certain threshold.
 - I am currently struggling to get the Bluetooth module to successfully connect to the computer, and the flex sensor's values could be more accurate.
 - Next, I will focus on writing code for the accelerometer to obtain its values, and hopefully get the Arduino Nano to wirelessly connect to my computer.
-- 
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
