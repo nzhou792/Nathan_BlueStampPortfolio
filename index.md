@@ -32,7 +32,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x5zgZh8wqlc?si=WhV2SBc7aaDNutqB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
@@ -63,7 +63,9 @@ For your second milestone, explain what you've worked on since your previous mil
 
 
 - So far, I have successfuly wired various physical components to the breadboard, such as an Arduino Nano, flex sensor, Piezo buzzer, IMU board (accelerometer), and Bluetooth module. I have successfully gotten the flex sensor to actively display its flex value and activate the Piezo buzzer when it passes a certain threshold.
-- I am currently struggling to 
+- I am currently struggling to get the Bluetooth module to successfully connect to the computer, and the flex sensor's values could be more accurate.
+- Next, I will
+- 
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
