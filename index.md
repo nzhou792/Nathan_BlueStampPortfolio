@@ -24,10 +24,10 @@ This device aims to detect speed and bend angle of the wrist using an accelerome
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x5zgZh8wqlc?si=WhV2SBc7aaDNutqB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+- Since the previous milestone, I have attached the flex sensor and accelerometer to the wrist sleeve using neoprene fabric and lengthened the wires so I can move the wrist sleeve around. On the website, I have added a display for good/bad form and what adjustment should be made if the wrist is in bad form (turn wrist up/down).
+- My biggest challenges here at BlueStamp were working on the starter project (because I had little experience with engineering), learning how to wire components to a microcontroller, and figuring out how to get components to function and create websites using code in the Arduino IDE.
+- Some topics I learned about include physical engineering skills like soldering components together, various circuit components like microcontrollers, sensors, and resistors, and approaching a big project in smaller steps (thinking more like an engineer).
+- In the future, I hope to work with bigger projects that involve more components, as well as possibly learning CAD and how to 3D-print custom parts. 
 
 
 
@@ -39,7 +39,7 @@ This device aims to detect speed and bend angle of the wrist using an accelerome
 
 - I have written code that allows the x-axis acceleration detected by the accelerometer to be actively displayed on the serial monitor. I also set up a Wi-Fi server that allows me to monitor the acceleration and flex sensor bend angle in real time on a website.
 - So far, the project seems like it focuses much more on specific small components and the code that gets those components to work. This has been surprising because I initially envisioned a project much more focused on physical construction.
-- Some challenges I have faced so far
+- Some challenges I have faced so far are successfully wiring the flex sensor to the breadboard and making its values more accurate, as well as figuring out how to use HTML code to set up the website.
 - Before my last milestone, I must get the components wired and attached to a wrist sleeve in order to create the final functioning device. 
 
 # First Milestone
