@@ -11,15 +11,6 @@ This device aims to detect speed and bend angle of the wrist using an accelerome
 
 ![Headstone Image](logo.svg)
 
-# Starter Milestone
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NxggbA9NjnA?si=uwGbsBWsHdI1Mzg9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- The components of this starter project (Jitterbug) include a battery holder to hold a 3V coin cell battery that powers the bug, two LED lights that light up upon powering on, a vibration motor to allow the bug to jitter, and legs made out of wire that allow it to stand.
-- I have successfully attached all of the components to the PCB and soldered them in place, along with making all of the legs the same length.
-- A challenge I'm facing is that my on/off switch is broken and is unable to turn on without falling apart. I hope to avoid a mistake like this in the future by making sure my individual components are functioning properly before putting them together.
-
-
 # Final Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x5zgZh8wqlc?si=WhV2SBc7aaDNutqB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -53,6 +44,14 @@ This device aims to detect speed and bend angle of the wrist using an accelerome
 - So far, I have successfuly wired various physical components to the breadboard, such as an Arduino Nano, flex sensor, Piezo buzzer, IMU board (accelerometer), and Bluetooth module. I have successfully gotten the flex sensor to actively display its flex value and activate the Piezo buzzer when it passes a certain threshold.
 - I am currently struggling to get the Bluetooth module to successfully connect to the computer, and the flex sensor's values could be more accurate.
 - Next, I will focus on writing code for the accelerometer to obtain its values, and hopefully get the Arduino Nano to wirelessly connect to my computer.
+
+# Starter Milestone
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NxggbA9NjnA?si=uwGbsBWsHdI1Mzg9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- The components of this starter project (Jitterbug) include a battery holder to hold a 3V coin cell battery that powers the bug, two LED lights that light up upon powering on, a vibration motor to allow the bug to jitter, and legs made out of wire that allow it to stand.
+- I have successfully attached all of the components to the PCB and soldered them in place, along with making all of the legs the same length.
+- A challenge I'm facing is that my on/off switch is broken and is unable to turn on without falling apart. I hope to avoid a mistake like this in the future by making sure my individual components are functioning properly before putting them together.
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
